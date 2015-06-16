@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Drinks</string>
+    <string name="how_much_beer">How much Beer did your drink? (in ml)</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_result">ShowResult</string>
+    <string name="how_much_wine">How much Wine did your drink? (in ml)</string>
+    <string name="how_much_liquor">How much Liquor did your drink? (in ml)</string>
+    <string name="how_much_weight">How much do you weight? (in kg)</string>
+    <string name="title_activity_define_gender">DefineGender</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
